@@ -4,7 +4,8 @@
 	"type": "project",
 	"require": {
 		"php": ">=5.3.7",
-		"components/jquery": "^3.3"
+		"components/jquery": "^3.3",
+		"twitter/bootstrap": "^4.3"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
